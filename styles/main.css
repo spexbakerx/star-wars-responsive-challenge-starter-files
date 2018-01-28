@@ -1,0 +1,40 @@
+body {
+	font-family: 'Work Sans', sans-serif;
+}
+
+header {
+	background-color: #eebb44;
+	line-height: 1.5em;
+	margin-bottom: 40px;
+}
+
+header h1 {
+	margin: 25px 0px 10px 0px;
+}
+
+header p{
+	margin: 0px 0px 20px 0px;
+}
+
+.box {
+	border: 1px solid #f3f3f3;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.box img{
+	position: relative;
+	width: 100.55%;
+	left: -1px;
+	top: -1px;
+}
+
+.box-text {
+	padding: 10px 20px 20px 20px;
+	line-height: 1.5em;
+}
+
+.box h1 {
+	font-size: 18px;
+	margin-bottom: 5px;
+}
